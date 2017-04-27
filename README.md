@@ -39,7 +39,7 @@
 
   * Instalar as dependências:
   
-  	*`$ pip install -r requirements.pip`*
+  	*`$ pip install -r requirements.txt`*
 
   * definir as variáveis de ambiente:
   
